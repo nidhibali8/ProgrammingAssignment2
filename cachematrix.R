@@ -1,8 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-
 ## Write a short comment describing this function
-
 ##This funtion is part of Coursera R programming Assignment of Week 3
 ##and is used to cache the inverse of a matrix to save long computational time
 
